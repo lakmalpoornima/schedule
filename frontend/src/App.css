@@ -1,0 +1,110 @@
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+h1{
+  color: rgb(216, 49, 20);
+  text-align: center;
+  font-size: 120px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+h2{
+  color: rgba(247, 14, 247, 0.726);
+  text-align:left;
+  font-size: 30px;
+}
+h3{
+  color: rgb(255, 102, 14);
+}
+nav{
+  background-color: rgba(4, 13, 37, 0.486);
+  background-size: 50px;
+}
+table{
+  background-color: rgba(156, 247, 243, 0.384);
+  color: #000000;
+  font-weight: 500;
+
+}
+
+form{
+  top: 250%;
+  left: 25%;
+  background-color: rgba(41, 230, 220, 0.562);
+  align-content: center;
+  border-radius: 5px; 
+ 
+  
+}
+
+
+.my{
+  color: rgb(255, 0, 0);
+  background-color: transparent;
+  padding: 14px 40px;
+  border: none;
+  border-radius: 12px;
+  position: absolute;
+  top: 70%;
+  left: 25%;
+  font-weight: bolder;
+  font-size: 25px;
+  
+}
+.my:hover{
+  color: #002fff;
+  background-color: #2beb12c5;
+}
+
+.lab{
+ font-size: 20px;
+ font-weight: bold;
+ padding: 5px;
+}
+
+.btn1{
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(43, 255, 0);
+  color: rgb(25, 0, 255);
+  position:relative;
+  left: 75%;
+  bottom: 2%;
+  
+  
+}
+.btn1:hover{
+  background-color: #002fff;
+  color: aliceblue;
+}
+.btn2{
+  background-color: #e9d7d7c5;
+  color: #000000;
+  border: none;
+  border-radius: 5px;
+}
+.btn2:hover{
+  background-color: #ff0000;
+  
+}
+
+.btn3{
+  background-color: #002fff;
+  color: #000000;
+  
+}
